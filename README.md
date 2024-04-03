@@ -1,4 +1,4 @@
-### Hi there 👋
+##### Versatile and innovative Senior IT Professional with 14 years of expertise spanning web and mobile programming, technical project management and server administration. Demonstrated success in leading complex IT initiatives and technology transformations for large-scale enterprise clients; adroit at supporting the daily, emergent, and long-term technology needs while enhancing the technology infrastructure and computer applications. Proven track record of training, developing, and motivating high-performing teams that consistently achieve project goals and exceed expectations. Experienced in owning projects from start to finish, from requirements and specifications to QA testing, documentation, and production release. Effectively prioritizes competing demands and shifting need in fastpaced, high-volume environments.
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackmichaeltech&include_all_commits=true&count_private=true&theme=tokyonight)
 
