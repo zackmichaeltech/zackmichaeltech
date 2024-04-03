@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackmichaeltech&include_all_commits=true&count_private=true&theme=tokyonight)
+
 <!--
 **zackmichaeltech/zackmichaeltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
