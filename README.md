@@ -84,6 +84,3 @@ Proven track record of training, developing, and motivating high-performing team
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Microsoft Azure" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
 </div>
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackmichaeltech&include_all_commits=true&count_private=true&theme=tokyonight)
-
